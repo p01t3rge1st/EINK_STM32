@@ -20276,16 +20276,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 39.37 129.54 0)
+		(at 39.37 129.54 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e8e7332c-fda6-4793-9fa3-f50f135d20ec")
 		(property "Reference" "C32"
-			(at 43.18 128.2699 0)
+			(at 35.56 130.8101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20293,8 +20292,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 43.18 130.8099 0)
+		(property "Value" "22u"
+			(at 35.56 128.2701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20303,7 +20302,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 40.3352 133.35 0)
+			(at 38.4048 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
