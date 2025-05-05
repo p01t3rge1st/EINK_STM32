@@ -14018,7 +14018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector:FanPinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
 			(at 39.37 67.31 0)
 			(effects
 				(font
@@ -15343,7 +15343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal"
 			(at 54.61 97.79 0)
 			(effects
 				(font
@@ -19884,7 +19884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Harwin:Harwin_M20-89010xx_1x10_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Horizontal"
 			(at 68.58 130.81 0)
 			(effects
 				(font
