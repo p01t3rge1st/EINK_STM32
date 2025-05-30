@@ -244,12 +244,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R7"
-			(at -2.775 0 0)
+			(at -1.925 0 0)
 			(layer "F.SilkS")
 			(uuid "dc6379f2-6486-4678-a5d4-f431f3134e72")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -642,12 +642,12 @@
 		(descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D1"
-			(at -2.7875 -0.09 270)
+			(at -2.2875 -0.09 270)
 			(layer "F.SilkS")
 			(uuid "83d2a8bc-823e-41d9-b483-ae5396c0328d")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -889,12 +889,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "TH1"
-			(at -3 0 0)
+			(at -2.25 0 0)
 			(layer "F.SilkS")
 			(uuid "f0a3e5ed-d4fc-41c3-b5bd-5d76f4b8f6e3")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -1088,12 +1088,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R16"
-			(at 0 -1.43 0)
+			(at 0 -1.25 0)
 			(layer "F.SilkS")
 			(uuid "e5c0dd47-66d3-454a-95e0-23308468c65a")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -1287,12 +1287,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R6"
-			(at 2.775 0.1667 0)
+			(at 1.825 0.1667 0)
 			(layer "F.SilkS")
 			(uuid "e31be81d-e92f-458b-b350-be50233bc3a4")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -1685,12 +1685,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0.025 -1.55 0)
+			(at 0.025 -1.25 0)
 			(layer "F.SilkS")
 			(uuid "5fa5a606-7aba-46af-a2ce-d5f375221a03")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -1884,12 +1884,12 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D6"
-			(at -0.2875 2.1 90)
+			(at -0.2875 2 90)
 			(layer "F.SilkS")
 			(uuid "9b199f88-71c4-424b-a15a-ee4b69a28b75")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -2118,12 +2118,12 @@
 		(descr "SMD Crystal 2012/2 http://txccrystal.com/images/pdf/9ht11.pdf, 2.0x1.2mm^2 package")
 		(tags "SMD SMT crystal")
 		(property "Reference" "Y1"
-			(at -2.3 0 0)
+			(at -2.05 0.5 0)
 			(layer "F.SilkS")
 			(uuid "80b8db30-519a-4155-86b8-8be94d35f8e9")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -2388,7 +2388,7 @@
 			(uuid "7ecfec10-4406-4c40-bf0d-2a592dceca04")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -2685,7 +2685,7 @@
 			(uuid "26ac9977-ce71-424a-a8da-c4d7ec239839")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -3206,12 +3206,12 @@
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J2"
-			(at -3 8.5 0)
+			(at -2.5 0.25 0)
 			(layer "F.SilkS")
 			(uuid "e6f5a1e8-c5b4-4d4e-b118-1f74ae94acba")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -3481,12 +3481,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at -2.325 0 0)
+			(at -2.075 0 0)
 			(layer "F.SilkS")
 			(uuid "5db2dcc8-a885-471b-bef5-833ed16695fd")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -4276,12 +4276,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C16"
-			(at 3.225 0 0)
+			(at 2.275 0 0)
 			(layer "F.SilkS")
 			(uuid "d32311f8-81c3-4032-8a7e-4d60dd0d51f8")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -4674,12 +4674,12 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D4"
-			(at 2.2875 0 0)
+			(at 2.0375 0 0)
 			(layer "F.SilkS")
 			(uuid "60f6c5a3-9727-4494-b352-41ba80b35ebf")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -4908,12 +4908,12 @@
 		(descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D2"
-			(at 2.7125 0 90)
+			(at 2.2125 0 90)
 			(layer "F.SilkS")
 			(uuid "7d1ed538-46b8-4711-a1ba-cd36b5e86420")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -5155,12 +5155,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C12"
-			(at -3.475 0 90)
+			(at -2.225 0 90)
 			(layer "F.SilkS")
 			(uuid "a7e162a6-c4d2-4f2b-b6fe-f3dcb0ee0023")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -5354,12 +5354,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 2.775 0 90)
+			(at 2.025 0 90)
 			(layer "F.SilkS")
 			(uuid "d5859b33-e89c-43af-9a7d-caaa043dd27f")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -5553,12 +5553,12 @@
 		(descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "inductor")
 		(property "Reference" "L2"
-			(at -2.4625 0 90)
+			(at -2.2125 0 90)
 			(layer "F.SilkS")
 			(uuid "4da323b6-7f26-447c-b275-564309ca8a9f")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -5757,7 +5757,7 @@
 			(uuid "5e38d3bc-1fa3-49ca-90f9-fbff239c804b")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.5 0.5)
 					(thickness 0.125)
 				)
 			)
@@ -5951,12 +5951,12 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "JP1"
-			(at 2.95 -1.38 90)
+			(at 2.7 -1.4 90)
 			(layer "F.SilkS")
 			(uuid "afc508e8-c71e-4300-b867-cfe41985b837")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -6220,7 +6220,7 @@
 			(uuid "93496838-4685-437b-a780-3a687811e1e5")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -6556,12 +6556,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 2.4308 -0.1104 90)
+			(at 2.0308 -0.1104 90)
 			(layer "F.SilkS")
 			(uuid "b5b41211-0d8c-4d5b-80df-45bcb0e78270")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -6954,12 +6954,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C17"
-			(at 0 1.5 0)
+			(at 0 1 0)
 			(layer "F.SilkS")
 			(uuid "897149e3-de8f-41d3-8a5e-8d0380e3636f")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -7153,12 +7153,12 @@
 		(descr "SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package")
 		(tags "SMD SMT crystal")
 		(property "Reference" "Y2"
-			(at 2.2 0.05 180)
+			(at 1.7 0.05 180)
 			(layer "F.SilkS")
 			(uuid "27e31e10-6b4c-4a3b-98c3-9dbafb206763")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -7621,12 +7621,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C22"
-			(at 2.975 0 90)
+			(at 2.225 0 90)
 			(layer "F.SilkS")
 			(uuid "92e17cdb-0dfd-4a02-863b-47842f622bce")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -7820,12 +7820,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C19"
-			(at 3.225 0 0)
+			(at 2.475 0 0)
 			(layer "F.SilkS")
 			(uuid "09a5f821-3ba3-4b37-804d-6e96d8c01e47")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -8024,7 +8024,7 @@
 			(uuid "6144b834-fc70-4f5e-87cb-3e0d3cdd2766")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -8315,12 +8315,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C9"
-			(at 2.775 0 90)
+			(at 2.275 0 90)
 			(layer "F.SilkS")
 			(uuid "c88cc69f-c25c-423b-8e0d-bc449dd6c43e")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -8713,7 +8713,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C14"
-			(at 2.275 0 90)
+			(at 2.025 -0.25 90)
 			(layer "F.SilkS")
 			(uuid "c9a5aa36-f6be-4a6a-bcbb-0b697d23bf10")
 			(effects
@@ -8912,12 +8912,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C10"
-			(at 3.275 0.0714 90)
+			(at 2.275 0.0714 90)
 			(layer "F.SilkS")
 			(uuid "80b2972f-af6a-45b3-a1d8-ed581aa72f5e")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -9910,12 +9910,12 @@
 		(descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "inductor")
 		(property "Reference" "L3"
-			(at 2.4625 0 90)
+			(at 2.2125 0 90)
 			(layer "F.SilkS")
 			(uuid "89ecfd59-4fa5-4c30-a95a-e1cbe6ae9c4e")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -10308,12 +10308,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R5"
-			(at -3.098809 0 90)
+			(at -2.325 0 90)
 			(layer "F.SilkS")
 			(uuid "b9166a78-18d9-41f7-9309-29a5e75df05d")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -10507,12 +10507,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C20"
-			(at 3.225 0 0)
+			(at 2.475 0 0)
 			(layer "F.SilkS")
 			(uuid "5233f144-5a53-4585-bd79-c3f1abbecbda")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -10706,12 +10706,12 @@
 		(descr "3x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x9.18mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile")
 		(tags "DIP Switch SPST Slide 7.62mm 300mil LowProfile")
 		(property "Reference" "J9"
-			(at 3.81 -3.11 0)
+			(at 3.81 -2.67 0)
 			(layer "F.SilkS")
 			(uuid "26b7a914-db9d-431e-b3c0-999f9a65d6a7")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -11232,12 +11232,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C15"
-			(at 3.225 -0.25 0)
+			(at 2.475 0.1 0)
 			(layer "F.SilkS")
 			(uuid "e8d21ded-6dc5-4427-8269-22e00b2e2a47")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.125)
 				)
 			)
@@ -11431,12 +11431,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C23"
-			(at -0.175 1.4 180)
+			(at -0.175 1.3 180)
 			(layer "F.SilkS")
 			(uuid "64dcdc34-8b07-497d-953b-92908f59b4d4")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -11630,12 +11630,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C7"
-			(at 2.775 0.09 90)
+			(at 2.275 0.09 90)
 			(layer "F.SilkS")
 			(uuid "681da3dc-26e5-410c-8b90-576ca0ad4e6f")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -11829,12 +11829,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R17"
-			(at 0 -1.43 0)
+			(at 0 -1.25 0)
 			(layer "F.SilkS")
 			(uuid "798fa3bf-34fe-41c3-a62b-fa1280dd1c8f")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -12033,7 +12033,7 @@
 			(uuid "8ef5f7e8-9b58-4a1f-ad6f-8c60a300c647")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -12375,12 +12375,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
-			(at -2.325 0 0)
+			(at -2.075 0 0)
 			(layer "F.SilkS")
 			(uuid "aaa7af08-8cc6-4212-bbe3-e4aeabd4269c")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -12574,12 +12574,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C8"
-			(at 3.025 0 90)
+			(at 2.275 0 90)
 			(layer "F.SilkS")
 			(uuid "91cb73a6-b26a-43e6-b18b-f987cf61657e")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -12773,12 +12773,12 @@
 		(descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "inductor")
 		(property "Reference" "L1"
-			(at -2.4375 0.1 90)
+			(at -2.0375 0.1 90)
 			(layer "F.SilkS")
 			(uuid "a9ab4f8f-ab20-4aff-9639-0b06a6d56eb6")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -12974,12 +12974,12 @@
 		(descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D3"
-			(at -3.275 -0.1429 90)
+			(at -2.2125 0.21 90)
 			(layer "F.SilkS")
 			(uuid "79cc91c0-3b26-4c07-a42f-30a06340b432")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -13420,12 +13420,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at 2.775 -0.0714 90)
+			(at 2.325 -0.0714 90)
 			(layer "F.SilkS")
 			(uuid "ef6f4233-56fc-4a0a-8e10-d2a4e5eb669f")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -14017,12 +14017,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at 2.775 0 90)
+			(at 2.275 0 90)
 			(layer "F.SilkS")
 			(uuid "f2346d86-2056-4fde-afa6-ca0f4b919bf6")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -14216,12 +14216,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C21"
-			(at 2.975 0 90)
+			(at 2.225 0 90)
 			(layer "F.SilkS")
 			(uuid "64f600d5-54f8-48e0-bb72-28ac5ba168fc")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -14415,12 +14415,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 2.725 -0.11 90)
+			(at 2.225 -0.11 90)
 			(layer "F.SilkS")
 			(uuid "59380015-3471-403d-a361-ccef45a75077")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -14619,7 +14619,7 @@
 			(uuid "9f7ae4eb-be78-4100-9bdd-ac8e4e46827d")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -14818,8 +14818,8 @@
 			(uuid "ac3dee3c-fbe7-40ab-b375-f966d0876f25")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.5 0.5)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -15292,7 +15292,7 @@
 			(uuid "45b8366a-3c14-444b-ae88-619131fc24e0")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -15821,7 +15821,7 @@
 			(uuid "7c438088-fe4b-4d00-9fb9-c6088bc7326f")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -16752,12 +16752,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C25"
-			(at 2.975 0 90)
+			(at 2.225 0 90)
 			(layer "F.SilkS")
 			(uuid "47dcfb35-1087-41e8-8090-8075353ce5d1")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -17155,7 +17155,7 @@
 			(uuid "79bdd02f-3d61-40a6-8414-6bb4c2a2be69")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -17424,12 +17424,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at -2.775 0.1429 90)
+			(at -2.275 0.1429 90)
 			(layer "F.SilkS")
 			(uuid "1105ca2c-fba9-4f29-84fe-c1c541fcf412")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -17822,12 +17822,12 @@
 		(descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex KK-254 vertical")
 		(property "Reference" "J3"
-			(at 3.2 -4.02 0)
+			(at -0.9 -4.32 0)
 			(layer "F.SilkS")
 			(uuid "3cf667fa-831f-4691-b0be-dbac0c45e145")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -18216,12 +18216,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C18"
-			(at 3.225 0 0)
+			(at 2.275 0 0)
 			(layer "F.SilkS")
 			(uuid "77bdeded-1954-4f10-bd30-6b8e441acb56")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -18614,12 +18614,12 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D5"
-			(at -2.986309 0 90)
+			(at -2.2125 0 90)
 			(layer "F.SilkS")
 			(uuid "9f4f6abb-ea34-440f-930b-f7ac1a131055")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -18848,12 +18848,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R8"
-			(at 2.825 0 0)
+			(at 1.825 0 0)
 			(layer "F.SilkS")
 			(uuid "6d105080-3913-4e8e-a857-781e7f892303")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -19052,7 +19052,7 @@
 			(uuid "4151f80e-7a40-4029-ade2-8b78ba0c3318")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -19461,12 +19461,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at -2.775 0 90)
+			(at -2.275 0 90)
 			(layer "F.SilkS")
 			(uuid "471f1de9-bac6-4be2-855b-f9dbf1fc0a40")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -19660,12 +19660,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C11"
-			(at 3.475 0 90)
+			(at 2.225 0 90)
 			(layer "F.SilkS")
 			(uuid "07be937f-e49b-4871-9b4b-ee0c4b9ec65b")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -19859,12 +19859,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R18"
-			(at 0 -1.43 0)
+			(at 0.205 -1.25 0)
 			(layer "F.SilkS")
 			(uuid "c659d743-a558-457e-ad66-dd4eba50fdbc")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
