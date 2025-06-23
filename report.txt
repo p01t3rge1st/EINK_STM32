@@ -1,0 +1,93 @@
+Informacja: Przetwarzam symbol 'JP1:TestPoint:TestPoint_Bridge_Pitch2.54mm_Drill1.3mm'.
+Informacja: Przetwarzam symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'Q1:Package_SO:Vishay_PowerPAK_1212-8_Single'.
+Informacja: Przetwarzam symbol 'P1:Connector_USB:USB_C_Plug_Molex_105444'.
+Informacja: Przetwarzam symbol 'L4:Inductor_SMD:L_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'L3:Inductor_SMD:L_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'L2:Inductor_SMD:L_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'L1:Inductor_SMD:L_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'J8:Connector_Harwin:Harwin_M20-89010xx_1x10_P2.54mm_Horizontal'.
+Informacja: Przetwarzam symbol 'J7:Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical'.
+Informacja: Przetwarzam symbol 'J6:Connector:FanPinHeader_1x04_P2.54mm_Vertical'.
+Informacja: Przetwarzam symbol 'C1:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'J4:Connector:FanPinHeader_1x03_P2.54mm_Vertical'.
+Informacja: Przetwarzam symbol 'J3:Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical'.
+Informacja: Przetwarzam symbol 'J2:Connector_Molex:Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical'.
+Informacja: Przetwarzam symbol 'J1:Connector_FFC-FPC:TE_2-1734839-3_1x23-1MP_P0.5mm_Horizontal'.
+Informacja: Przetwarzam symbol 'R13:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'Y2:Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm'.
+Informacja: Przetwarzam symbol 'Y1:Crystal:Crystal_SMD_2012-2Pin_2.0x1.2mm'.
+Informacja: Przetwarzam symbol 'U3:Package_SO:MSOP-8_3x3mm_P0.65mm'.
+Informacja: Przetwarzam symbol 'U2:Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias'.
+Informacja: Przetwarzam symbol 'U1:Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm'.
+Informacja: Przetwarzam symbol 'TH1:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'SW1:Button_Switch_THT:SW_PUSH_6mm'.
+Informacja: Przetwarzam symbol 'R15:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'R14:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'J5:Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical'.
+Informacja: Przetwarzam symbol 'R12:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'R11:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'R10:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'R9:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'R8:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'R7:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'R6:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'R5:Resistor_SMD:R_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C14:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C25:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C24:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C23:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C22:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C21:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C20:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C19:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C18:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C17:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C16:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C15:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'D6:LED_SMD:LED_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C12:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C11:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C10:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C9:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C8:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C7:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C6:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C5:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C4:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C3:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C2:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C28:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'FL1:Filter:Filter_Mini-Circuits_FV1206'.
+Informacja: Przetwarzam symbol 'D5:LED_SMD:LED_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'D4:LED_SMD:LED_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'D3:Diode_SMD:D_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'D2:Diode_SMD:D_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'D1:Diode_SMD:D_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C33:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C32:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C31:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C30:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C29:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C27:Capacitor_SMD:C_0603_1608Metric'.
+Informacja: Przetwarzam symbol 'C26:Capacitor_SMD:C_0603_1608Metric'.
+Ostrzeżenie: Nie znaleziono sieci dla komponentu P1 pola B8 (brak pinu B8 w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu P1 pola B10 (brak pinu B10 w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu P1 pola A2 (brak pinu A2 w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu P1 pola B2 (brak pinu B2 w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu P1 pola A8 (brak pinu A8 w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu P1 pola A11 (brak pinu A11 w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu P1 pola B3 (brak pinu B3 w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu Q1 pola 5 (brak pinu 5 w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu Q1 pola 4 (brak pinu 4 w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu P1 pola A3 (brak pinu A3 w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu P1 pola B11 (brak pinu B11 w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu J1 pola MP (brak pinu MP w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu J1 pola MP (brak pinu MP w symbolu).
+Ostrzeżenie: Nie znaleziono sieci dla komponentu P1 pola A10 (brak pinu A10 w symbolu).
+
+
+Informacja: Ostrzeżeń w sumie: 14, błędów w sumie: 0.
