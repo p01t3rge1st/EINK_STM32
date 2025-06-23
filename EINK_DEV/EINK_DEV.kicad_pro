@@ -52,7 +52,20 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "unconnected_items|94212500|78000000|756692ca-eea8-4f75-8b3d-b298c62da031|e60bfda9-c065-488b-b2dd-7ec8083cb06d",
+          ""
+        ],
+        [
+          "unconnected_items|94262500|74050000|e60bfda9-c065-488b-b2dd-7ec8083cb06d|bde9b0ad-19d1-4071-86ab-a03e7305530c",
+          ""
+        ],
+        [
+          "unconnected_items|98450000|78737500|e87e99f7-990f-437e-8d58-f7f15822c3b6|fb733021-8a13-43be-b87c-25a6e8ed0aa0",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -129,7 +142,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.2,
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
